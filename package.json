@@ -1,0 +1,16 @@
+{
+  "name": "sweet",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Islavath Mohan Naik",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "qr-image": "^3.2.0"
+  }
+}
